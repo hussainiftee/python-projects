@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "49efc3368e25cc541579c91c92b08134ed8a23fc9d5c328ef8207674428382f5"
+            "sha256": "b3fdf83953443a3daad47f9a68a36062a517fb240945530e620051123e22f554"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -45,6 +45,13 @@
                 "sha256:cca55c8d153173e21baa59983015ad0daf603f9cb799904ff057bfb8ff8dc2d9"
             ],
             "version": "==0.9.5"
+        },
+        "pgpackup": {
+            "hashes": [
+                "sha256:eef49768427538a28d4cb414843a69104801fcfbb86e5f4ba43a4e8e8096baa1"
+            ],
+            "path": "./dist/pgpackup-0.1.0-py3-none-any.whl",
+            "version": "==0.1.0"
         },
         "python-dateutil": {
             "hashes": [
